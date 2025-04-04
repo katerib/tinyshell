@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Executables
+tinyshell
+
+# Core dumps
+core
+
+# Editor/IDE files
+*.swp
+*.out
+*.log
+*.tmp
+.DS_Store
+.vscode/
+*.exe
